@@ -6,7 +6,7 @@ Tech Stack
 HTML 2. CSS 3. JavaScript
 Description
 
-User Interface: Display Screen: A prominent display area to showcase the input and result. Numeric Buttons: Clearly labeled buttons representing digits from 0 to 9 for entering numerical values. Operational Buttons: Buttons for basic arithmetic operations, including addition (+), subtraction (-), multiplication (*), division (/) and remainder(%). Special Buttons: Additional buttons for functionalities like decimal point (.), clearing the input (AC), and evaluating the expression (=).
+User Interface: Display Screen: A prominent display area to showcase the input and result. Numeric Buttons: Clearly labeled buttons representing digits from 0 to 9 for entering numerical values. Operational Buttons: Buttons for basic arithmetic operations, including addition (+), subtraction (-), multiplication (*), division (/) and remainder(%). Special Buttons: Additional buttons for functionalities like decimal point (.), clearing the input (C), and evaluating the expression (=).
 
 Functionalities: Basic Arithmetic Operations: Performs addition, subtraction, multiplication, and division. Input Handling: Allows users to enter numerical values and operators using the provided buttons. Expression Evaluation: Evaluates the entered expression and displays the result on the screen.
 
